@@ -133,6 +133,21 @@ Risk_Heatmap_Template.md# Risk Heatmap & Dashboard
 
 **Overall Enterprise Risk Level:** Low / Medium / High
 
+Variance_Analysis_Template.md# Variance Analysis Report
+
+**Period:** [Month YYYY] vs Budget / Prior Year
+
+| Item                    | Actual | Budget | Variance | % Var | Prior Year | Var vs PY | Explanation |
+|-------------------------|--------|--------|----------|-------|------------|-----------|-------------|
+| Total Revenue           |        |        |          |       |            |           |             |
+| Interest Income         |        |        |          |       |            |           |             |
+| Operating Expenses      |        |        |          |       |            |           |             |
+| Net Profit              |        |        |          |       |            |           |             |
+
+**Major Variances Commentary:**  
+[Provide detailed explanations for items >5-10% variance]
+
+
 
 
 
