@@ -482,10 +482,23 @@ Signature: ___________________________ Date: ____________
 
 
 
+Card_Terms_Conditions.md
 
 
+# APACGAMONDE / APACGAWORLD Card Terms & Conditions
 
+**Effective Date:** [Date]
 
+1. **Ownership**: The card remains the property of APACGAMONDE or APACGAWORLD.
+2. **Usage**: Card can be used for purchases, ATM withdrawals, and online transactions within available balance/credit limit.
+3. **Fees**: Annual fee, transaction fees, cash advance fees, and foreign currency conversion fees may apply (disclosed at issuance).
+4. **Liability**: Cardholder is responsible for all transactions until the bank is notified of loss/theft.
+5. **Lost/Stolen Card**: Notify immediately via app or customer service. Liability may be limited after notification.
+6. **Default**: Late payment on credit card may attract interest and penalties.
+7. **Termination**: The bank may suspend or cancel the card at any time with notice.
+8. **Governing Law**: Subject to the laws of the jurisdiction where the account is held.
+
+**Acceptance**: By using the card, the holder accepts these terms.
 
 
 
