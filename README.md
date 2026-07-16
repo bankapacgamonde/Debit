@@ -80,4 +80,39 @@ Management Controller: ___________________________ Date: ___________
 Chairman Review: ___________________________ Date: ___________
 
 **Confidential — For Internal Use Only**
+Liquidity_Report_Template.md# APACGAMONDE / APACGA Liquidity Report
+
+**Period:** [Month YYYY]  
+**Date Prepared:** [DD Month YYYY]
+
+## 1. Summary Position
+- Total Liquid Assets: ________
+- Total Liabilities Due < 30 days: ________
+- Liquidity Coverage Ratio (LCR): ________ %
+- Net Stable Funding Ratio (NSFR): ________ %
+
+## 2. Breakdown by Currency
+| Currency | Liquid Assets | Short-term Liabilities | Net Position | Notes |
+|----------|---------------|------------------------|--------------|-------|
+| GBP      |               |                        |              |       |
+| EUR      |               |                        |              |       |
+| CFA      |               |                        |              |       |
+| USD      |               |                        |              |       |
+| Others   |               |                        |              |       |
+
+## 3. Stress Test Scenarios
+- Normal conditions: OK / Under pressure
+- 30-day outflow scenario: Survival days = __
+- Major FX shock: Impact = ________
+
+## 4. Actions & Recommendations
+- Funding actions taken
+- Contingency plan activation status
+
+**Prepared by:** Management Controller  
+**Reviewed by:** Chairman / CFO
+
+
+
+
 
