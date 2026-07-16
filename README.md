@@ -520,5 +520,35 @@ Standard Operating Procedure – Card Issuance
 **Timeline Target:** 3–7 business days from approval
 **Records:** All steps logged with audit trail
 
+Fraud_Dispute_Management.md# 
+
+Fraud Monitoring & Dispute Management
+
+**Real-time Monitoring**
+- Transaction velocity checks
+- Unusual location or amount alerts
+- AI/ML-based anomaly detection
+
+**Fraud Response Procedure**
+1. Alert triggered
+2. Immediate transaction block (if high risk)
+3. Customer contact for confirmation
+4. Investigation within 24 hours
+5. Resolution: Refund / Decline claim
+
+**Dispute Process (Cardholder)**
+1. Customer reports dispute via app
+2. Case logged with reference number
+3. Investigation (up to 30–45 days)
+4. Provisional credit where applicable
+5. Final decision communicated
+
+**Key Metrics to Track**
+- Fraud rate (% of transaction value)
+- False positive rate
+- Average resolution time
+
+**Escalation**: Material fraud incidents → Immediate report to Management Controller & Chairman
+
 
 
