@@ -278,6 +278,96 @@ Chairman / CEO Review & Approval: ________________ Date: ___________
 **Confidential – Internal Use Only**  
 APACGAMONDE / APACGA, All Rights Reserved
 
+Annual_Report_Template.md # APACGAMONDE / APACGA Annual Report
+
+**Financial Year:** [Year]  
+**Reporting Period:** 1 January [Year] – 31 December [Year]  
+**Prepared by:** Management Controller  
+**Date:** [DD Month YYYY +1]  
+**Submitted to:** Chairman, Board, Stakeholders, Regulators (where applicable)
+
+## 1. Chairman’s Statement
+[Space for Chairman’s message – vision, key achievements, challenges, and outlook]
+
+## 2. Executive Summary
+- Year at a glance
+- Major milestones achieved
+- Overall financial and operational performance
+- Strategic direction for the coming year
+
+## 3. Organisational Overview
+- About APACGAMONDE (Francophone Zone) and APACGAWORLD (Anglophone Zone)
+- Mission, Vision, and Core Values
+- Governance Structure
+- Key leadership and management control team
+
+## 4. Financial Performance
+### 4.1 Key Financial Highlights
+| Metric                        | [Year]     | [Year-1]   | Change %   | Comments |
+|-------------------------------|------------|------------|------------|----------|
+| Total Assets                  |            |            |            |          |
+| Total Customer Deposits       |            |            |            |          |
+| Gross Loan Portfolio          |            |            |            |          |
+| Net Profit After Tax          |            |            |            |          |
+| Return on Assets (ROA)        |            |            |            |          |
+| Return on Equity (ROE)        |            |            |            |          |
+| Cost-to-Income Ratio          |            |            |            |          |
+| Earnings Per Share (if applicable) |       |            |            |          |
+
+### 4.2 Balance Sheet Summary
+### 4.3 Income Statement Summary
+### 4.4 Cash Flow Summary
+
+## 5. Business Performance by Zone
+**APACGAMONDE – Worldwide Francophone Zone**
+- Key achievements and market performance
+- Product growth (Savings, Current, Lending, Cards)
+
+**APACGAWORLD – Worldwide Anglophone Zone**
+- Key achievements and market performance
+- GBP and multi-currency highlights
+
+## 6. Strategic Achievements
+- Customer growth and market expansion
+- Digital transformation progress
+- Product innovation
+- Partnerships and collaborations
+- Sustainability and community impact (if applicable)
+
+## 7. Management Control & Risk Management
+- Internal control environment
+- Key Risk Indicators and mitigation
+- Compliance and regulatory status
+- Audit outcomes
+
+## 8. Corporate Governance
+- Board composition and meetings
+- Management control framework
+- Transparency and reporting standards
+
+## 9. Outlook & Strategic Plan for [Next Year]
+- Economic assumptions
+- Key strategic priorities
+- Growth targets
+- Expected challenges and opportunities
+
+## 10. Appendices
+- Detailed financial statements
+- KPI dashboard (full year)
+- Glossary of terms
+- Contact information
+
+---
+
+**Approval & Signatures**  
+Management Controller: ___________________________ Date: ___________  
+Chairman & Founder: ______________________________ Date: ___________
+
+**APACGAMONDE / APACGA**  
+*Professional Banking | Management Control | Global Standards*  
+All Rights Reserved
+
+
 
 
 
