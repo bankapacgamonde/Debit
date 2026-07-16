@@ -146,6 +146,33 @@ Variance_Analysis_Template.md# Variance Analysis Report
 
 **Major Variances Commentary:**  
 [Provide detailed explanations for items >5-10% variance]
+SOP_Management_Control.md# Standard Operating Procedure: Management Control & Reporting
+
+**Process Owner:** Management Controller  
+**Frequency:** Daily / Weekly / Monthly
+
+## Steps
+1. Data Collection (from core banking system)
+2. Validation & Reconciliation
+3. Analysis & Variance Calculation
+4. Report Compilation (using templates)
+5. Review & Quality Check
+6. Distribution to Stakeholders
+7. Action Tracking & Follow-up
+
+## Responsibilities
+- Management Controller: Preparation & Analysis
+- Department Heads: Data accuracy & comments
+- Chairman: Strategic review & decisions
+
+## Tools
+- Core banking system
+- Excel / Power BI dashboards
+- GitHub / Document repository
+
+## Escalation
+Any material variance or risk > threshold → Immediate notification to Chairman.
+
 
 
 
