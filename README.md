@@ -449,7 +449,36 @@ APACGAMONDE and APACGAWORLD issue their own **proprietary Debit and Credit Cards
 **APACGAMONDE / APACGAWORLD** — Your Global Banking Partner
 
 
+Card_Application_Form_Template.md# 
+APACGAMONDE / APACGAWORLD Card Application Form
 
+**Application Type:** ☐ Debit Card ☐ Credit Card  
+**Zone:** ☐ APACGAMONDE (Francophone) ☐ APACGAWORLD (Anglophone)
+
+### Applicant Information
+- Full Name: _______________________________
+- Date of Birth: ___________ Nationality: ___________
+- ID/Passport Number: __________________ Expiry: ___________
+- Address: ________________________________________________
+- Phone: __________________ Email: ________________________
+- Occupation / Business: __________________________________
+
+### Account Link (for Debit) / Credit Limit Request
+- Linked Account Number: _______________________________
+- Requested Credit Limit (Credit Card only): ___________
+
+### Declarations
+- I confirm all information is true and accurate.
+- I agree to the Card Terms & Conditions.
+- I consent to KYC/AML checks and credit assessment.
+
+Signature: ___________________________ Date: ____________
+
+**For Bank Use Only**
+- KYC Status: Approved / Rejected
+- Credit Score / Decision: ________________
+- Card Number Issued: ________________
+- Approval by Management Controller: ________________ Date: ____
 
 
 
