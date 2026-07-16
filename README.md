@@ -112,6 +112,31 @@ Liquidity_Report_Template.md# APACGAMONDE / APACGA Liquidity Report
 **Prepared by:** Management Controller  
 **Reviewed by:** Chairman / CFO
 
+Risk_Heatmap_Template.md# Risk Heatmap & Dashboard
+
+**Period:** [Month YYYY]
+
+## Risk Matrix (Likelihood × Impact)
+
+| Risk Type              | Likelihood | Impact | Overall Risk | Trend | Mitigation Status | Owner |
+|------------------------|------------|--------|--------------|-------|-------------------|-------|
+| Credit Risk            | Low/Med/High | Low/Med/High | Low/Med/High | ↑↓→ |                   |       |
+| Market / FX Risk       |            |            |              |       |                   |       |
+| Operational Risk       |            |            |              |       |                   |       |
+| Compliance / Regulatory|            |            |              |       |                   |       |
+| Liquidity Risk         |            |            |              |       |                   |       |
+| Cyber / IT Risk        |            |            |              |       |                   |       |
+| Strategic Risk         |            |            |              |       |                   |       |
+
+**Key Open Issues:**  
+[List top 3-5 risks with action plans]
+
+**Overall Enterprise Risk Level:** Low / Medium / High
+
+
+
+
+
 
 
 
