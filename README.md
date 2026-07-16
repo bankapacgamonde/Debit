@@ -367,6 +367,90 @@ Chairman & Founder: ______________________________ Date: ___________
 *Professional Banking | Management Control | Global Standards*  
 All Rights Reserved
 
+APACGAMONDE-APACGAWORLD-Cards# 
+APACGAMONDE & APACGAWORLD Debit & Credit Cards
+
+**Proprietary Card Program**  
+APACGAMONDE (Francophone Zone) | APACGAWORLD (Anglophone Zone)  
+APACGAMONDE, All Rights Reserved
+
+## Overview
+APACGAMONDE and APACGAWORLD issue their own **proprietary Debit and Credit Cards**. These cards operate on modern payment rails (not Visa or Mastercard) through direct bank partnerships, ACH, local switches, and international gateways where available.
+
+## Card Types
+
+### 1. APACGAMONDE Debit Card (Francophone)
+- Linked to customer’s current or savings account
+- Daily spending limits configurable
+- Contactless payments
+- ATM withdrawal support (local + international networks)
+- Multi-currency visibility (GBP, EUR, CFA, etc.)
+
+### 2. APACGAWORLD Debit Card (Anglophone)
+- Same features as above, optimized for GBP/USD markets
+
+### 3. APACGAMONDE / APACGAWORLD Credit Card
+- Revolving credit facility
+- Grace period and interest structure per product terms
+- Reward points or cashback (internal loyalty program)
+- Higher limits for qualified customers
+
+## Card Design Template (Description for Designers)
+- **Front**: 
+  - Card number (16 digits, grouped 4-4-4-4)
+  - Cardholder name
+  - Expiry date (MM/YY)
+  - "APACGAMONDE" or "APACGAWORLD" logo prominently displayed
+  - Chip + Contactless symbol
+  - Zone identifier (Francophone / Anglophone)
+
+- **Back**:
+  - Magnetic stripe / signature panel
+  - Customer service number
+  - "Powered by APACGA Network" or local partner
+  - Security features (CVV, hologram placeholder)
+
+## Technical Specifications
+- Card Number Format: BIN range owned or assigned by partner
+- CVV / CVC generation
+- Expiry management (default 3–5 years)
+- Tokenization support for digital wallets
+- 3D Secure equivalent authentication
+
+## Application & Issuance Process (SOP)
+
+1. Customer applies via mobile app or branch
+2. KYC / Credit check completed
+3. Approval by risk & management control
+4. Card personalization and mailing / digital issuance
+5. Activation by customer
+6. Monitoring in real-time fraud system
+
+## Terms & Conditions (Summary)
+- Cards remain property of APACGAMONDE / APACGAWORLD
+- Usage governed by local laws and bank rules
+- Liability for unauthorized transactions limited per policy
+- Fees and charges clearly disclosed
+
+## Repository Contents
+- `Card_Design_Specs/` (images, PSD templates when available)
+- `Application_Form_Template.pdf`
+- `Card_Terms_Conditions.md`
+- `Issuance_SOP.md`
+- `Fraud_Monitoring_Guidelines.md`
+
+## Related Repositories
+- APACGAMONDE-BANK
+- APACGAWORLD-BANK
+- Management-Control-Reporting
+
+---
+
+**APACGAMONDE / APACGAWORLD** — Your Global Banking Partner
+
+
+
+
 
 
 
