@@ -501,6 +501,24 @@ Card_Terms_Conditions.md
 **Acceptance**: By using the card, the holder accepts these terms.
 
 
+Card_Issuance_SOP.md# 
+Standard Operating Procedure – Card Issuance
+
+**Process Owner:** Management Controller / Card Operations Team
+
+### Steps
+1. **Application Receipt** – Via app, branch, or portal
+2. **KYC / AML Verification** – Complete customer due diligence
+3. **Credit Assessment** (for Credit Cards) – Score and limit approval
+4. **Risk & Compliance Check** – Sanctions, PEP screening
+5. **Management Controller Approval** – Final sign-off
+6. **Card Personalization** – Generate card details, PIN, CVV
+7. **Delivery** – Physical card by secure mail or digital token
+8. **Activation** – Customer activates via app/IVR
+9. **Monitoring** – Add to fraud detection system
+
+**Timeline Target:** 3–7 business days from approval
+**Records:** All steps logged with audit trail
 
 
 
