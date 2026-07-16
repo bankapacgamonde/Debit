@@ -173,6 +173,28 @@ SOP_Management_Control.md# Standard Operating Procedure: Management Control & Re
 ## Escalation
 Any material variance or risk > threshold → Immediate notification to Chairman.
 
+KPI_Dashboard_Template.md# 
+APACGAMONDE / APACGA KPI Dashboard
+
+**Month:** [Month YYYY]
+
+## Zone Overview
+- **Francophone (APACGAMONDE):** Overall Score __ / 100
+- **Anglophone (APACGAWORLD):** Overall Score __ / 100
+
+## Top KPIs
+| KPI                              | Target | Actual | Status (R/Y/G) | Notes |
+|----------------------------------|--------|--------|----------------|-------|
+| Deposit Growth                   |        |        |                |       |
+| Loan Portfolio Quality (NPL)     | <2%    |        |                |       |
+| Cost-to-Income Ratio             | <60%   |        |                |       |
+| Customer Acquisition             |        |        |                |       |
+| Digital Adoption                 | >70%   |        |                |       |
+| Liquidity Coverage               | >100%  |        |                |       |
+| KYC Completion Rate              | 100%   |        |                |       |
+
+**Status Legend:** Green = On/Above Target | Yellow = Near Target | Red = Below Target
+
 
 
 
